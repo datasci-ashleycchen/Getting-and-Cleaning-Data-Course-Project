@@ -1,4 +1,4 @@
-Init<-function(workDir="/WD/MyWorkshops/Coursera_Udacity/Data_Science_Specialization_Track/Getting_and_Cleaning_Data/CourseProject"){
+Init<-function(workDir="/WD/MyWorkshops/Coursera_Udacity/Data_Science_Specialization_Track/Getting_and_Cleaning_Data/Getting-and-Cleaning-Data-Course-Project"){
         setwd(workDir)
 }
 Init()
